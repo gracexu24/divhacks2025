@@ -1,0 +1,23 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.csproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Magic Leap / Android artifacts
+*.mpk
+*.apk
+*.mlcert
