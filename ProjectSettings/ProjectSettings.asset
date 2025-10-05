@@ -135,10 +135,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: 11400000, guid: f4ab148dcd7db4ceda32582b6b7fd237, type: 2}
-  - {fileID: 7056463957320094623, guid: 9b36cc02583d8487082f30c8982b8015, type: 2}
-  - {fileID: 11400000, guid: 6c609beed9ed34d20bb5cfba8f1b6095, type: 2}
-  - {fileID: -4133994095293301314, guid: 3bb54e68f47a142b59ddf209427bcc3d, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -256,7 +253,7 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
-  AndroidTargetArchitectures: 2
+  AndroidTargetArchitectures: 8
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
